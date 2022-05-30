@@ -1,6 +1,6 @@
 # Setup frontend
 
-In order to to setup frontend service run the following command
+In order to setup frontend service run the following command
 
 `yarn install`
 
