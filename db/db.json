@@ -1,0 +1,218 @@
+{
+  "projects": {
+    "response": [
+      {
+        "id": "1",
+        "title": "project-01",
+        "collection": "",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-01.png"
+        }
+      },
+      {
+        "id": "2",
+        "title": "project-02",
+        "collection": "seo",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-02.png"
+        }
+      },
+      {
+        "id": "3",
+        "title": "project-03",
+        "collection": "website",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-03.png"
+        }
+      },
+      {
+        "id": "4",
+        "title": "project-04",
+        "collection": "applications",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-04.png"
+        }
+      },
+      {
+        "id": "5",
+        "title": "project-05",
+        "collection": "website",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-05.png"
+        }
+      },
+      {
+        "id": "6",
+        "title": "project-06",
+        "collection": "photography",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-06.png"
+        }
+      },
+      {
+        "id": "7",
+        "title": "project-07",
+        "collection": "applications",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-07.png"
+        }
+      },
+      {
+        "id": "8",
+        "title": "project-08",
+        "collection": "website",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-08.png"
+        }
+      },
+      {
+        "id": "9",
+        "title": "project-09",
+        "collection": "photography",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-09.png"
+        }
+      },
+      {
+        "id": "10",
+        "title": "project-10",
+        "collection": "photography",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-10.png"
+        }
+      },
+      {
+        "id": "11",
+        "title": "project-11",
+        "collection": "",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-11.png"
+        }
+      },
+      {
+        "id": "12",
+        "title": "project-12",
+        "collection": "applications",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-12.png"
+        }
+      },
+      {
+        "id": "13",
+        "title": "project-13",
+        "collection": "applications",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-13.jpg"
+        }
+      },
+      {
+        "id": "14",
+        "title": "project-14",
+        "collection": "applications",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-14.png"
+        }
+      },
+      {
+        "id": "15",
+        "title": "project-15",
+        "collection": "website",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-15.png"
+        }
+      },
+      {
+        "id": "16",
+        "title": "project-16",
+        "collection": "seo",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-16.png"
+        }
+      },
+      {
+        "id": "17",
+        "title": "project-17",
+        "collection": "seo",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-17.png"
+        }
+      },
+      {
+        "id": "18",
+        "title": "project-18",
+        "collection": "photography",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-18.jpg"
+        }
+      },
+      {
+        "id": "19",
+        "title": "project-19",
+        "collection": "applications",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-19.png"
+        }
+      },
+      {
+        "id": "20",
+        "title": "project-20",
+        "collection": "website",
+        "image": {
+          "small": "",
+          "large": "http://localhost:3000/assets/images/projects/project-20.png"
+        }
+      }
+    ]
+  },
+  "about": {
+    "response": {
+      "main": {
+        "image": "http://localhost:3000/assets/images/about/main.jpg",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis ac, gravida quis tortor. Suspendisse non urna mi, quis tincidunt eros. Nullam tellus turpis, fringilla sit amet congue ut, luctus a nulla. Donec sit amet sapien neque, id ullamcorper diam. Nulla facilisi. Pellentesque pellentesque arcu a elit congue lacinia. Nullam tellus turpis, fringilla sit amet congue ut, luctus a nulla. Donec sit amet sapien neque, id ullamcorper diam. Nulla facilisi. Pellentesque pellentesque arcu a elit congue lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis ac, gravida quis tortor. Suspendisse non urna mi, quis tincidunt eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "mission": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis ac, gravida quis tortor. Suspendisse non urna mi, quis tincidunt eros. Nullam tellus turpis, fringilla sit amet congue ut, luctus a nulla. Donec sit amet sapien neque, id ullamcorper diam. Nulla facilisi. Pellentesque pellentesque arcu a elit congue lacinia."
+      },
+      "funFacts": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis ac, gravida quis tortor. Suspendisse non urna mi, quis tincidunt eros. Nullam tellus turpis, fringilla sit amet congue ut, luctus a nulla. Donec sit amet sapien neque, id ullamcorper diam. Nulla facilisi. Pellentesque pellentesque arcu a elit congue lacinia."
+      },
+      "services": [
+        {
+          "name": "Website",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis ac, gravida quis tortor."
+        },
+        {
+          "name": "Photography",
+          "content": "Nulla facilisi. Pellentesque pellentesque arcu a elit congue lacinia. Nullam tellus turpis, fringilla sit amet congue ut, luctus a nulla."
+        },
+        {
+          "name": "SEO",
+          "content": "Donec sit amet sapien neque, id ullamcorper diam. Nulla facilisi. Pellentesque pellentesque arcu a elit congue lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Applications",
+          "content": "Suspendisse non urna mi, quis tincidunt eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    }
+  }
+}
